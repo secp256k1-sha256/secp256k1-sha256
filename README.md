@@ -27,7 +27,7 @@ As a seasoned PostgreSQL DBA with over 15 years of experience, I've honed my ski
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mayur555b/)
-- [Twitter](https://x.com/database_comedy)
+- [BSKY](https://bsky.app/profile/pgdba.bsky.social)
 - [Drunk DBA Blog](https://drunkdba.medium.com/)
 
-As a database expert with a unique sense of humor, I'm always eager to collaborate on PostgreSQL, Oracle, or multi-database projects.
+As a database expert with a unique sense of humor, I'm always eager to collaborate on PostgreSQL projects.
